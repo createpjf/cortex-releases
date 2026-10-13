@@ -1,0 +1,11 @@
+{
+  "client_id": "https://createpjf.github.io/cortex-releases/oauth/client.json",
+  "client_name": "Cortex",
+  "client_uri": "https://github.com/createpjf/cortex-releases",
+  "logo_uri": "https://raw.githubusercontent.com/createpjf/cortex-releases/main/assets/icon.png",
+  "application_type": "native",
+  "redirect_uris": ["http://127.0.0.1/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
