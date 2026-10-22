@@ -23,6 +23,8 @@
   ·
   <a href="#features">Features</a>
   ·
+  <a href="#screenshots">Screenshots</a>
+  ·
   <a href="#updates">Updates</a>
   ·
   <a href="#system-requirements">System requirements</a>
@@ -55,11 +57,34 @@ Everything runs on your Mac. Conversations, projects, and settings are stored lo
 - **Cola, your work double.** A personal agent that follows up on work within the scope you allow, reads across your projects and conversations, and comes back when there is progress or a decision to make.
 - **Agents with guardrails.** Choose **Ask for approval**, **Auto-approve**, or **Plan** for each conversation. Shell commands run in a write sandbox, and irreversible actions always need your confirmation.
 - **Verified enterprise knowledge.** Answers cite their sources, and every citation is checked against the original document before it is shown.
-- **Creative canvas.** Connect text, image, and generation nodes to produce images and video, keep every version inside its node, and run a selected chain after previewing it.
+- **Creative canvas.** Built on a design engine: generation nodes are artboards on the canvas, any layer can be a reference, and every version stays inside its node. Produce images and video, and run a selected chain after previewing it.
 - **Computer use.** Let an agent operate apps on your Mac, with per-app permission prompts and one conversation in control at a time.
 - **Skills and MCP connectors.** Install a dependency once and every conversation can use it. When a connector fails to start, Cortex shows why.
-- **Bots for WeChat, Feishu, and DingTalk.** Send tasks from your phone and get results back in the same chat.
+- **Interactive views.** Agents can answer with live charts, sliders, and demos that you can open beside the chat, tweak, and export as a web page.
+- **Bots for WeChat, Feishu / Lark, DingTalk, and Telegram.** Send tasks from your phone and get results back in the same chat. Scan a QR code to create a Feishu app, and choose how replies stream back.
 - **Built for daily work.** A per-conversation terminal, voice input with live transcription, subagents and background tasks, and automatic model routing.
+
+## Screenshots
+
+<p align="center">
+  <img width="1000" alt="An interactive view in a reply, also opened in the right pane" src="assets/screenshot-view.png" />
+</p>
+<p align="center"><em>Interactive views: live demos in the reply and beside the chat</em></p>
+
+<p align="center">
+  <img width="1000" alt="Cola, the personal agent, with its profile panel" src="assets/screenshot-cola.png" />
+</p>
+<p align="center"><em>Cola: messenger-style chat with routines, memory, and model settings</em></p>
+
+<p align="center">
+  <img width="1000" alt="Knowledge base overview" src="assets/screenshot-knowledge.png" />
+</p>
+<p align="center"><em>Knowledge base: verified sources your agents can cite</em></p>
+
+<p align="center">
+  <img width="1000" alt="Bot settings with linking, routing, and reply mode" src="assets/screenshot-bots.png" />
+</p>
+<p align="center"><em>Bots: link a chat app, choose where messages go and how replies arrive</em></p>
 
 ## Updates
 
