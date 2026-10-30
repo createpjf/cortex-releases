@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img width="1024" alt="Cortex desktop app showing Cola, the personal work agent" src="assets/cortex-cola.png" />
+  <img width="1024" alt="Cortex desktop app showing Cola, the personal work agent" src="assets/screenshot-cola-0.10.1206.png" />
 </p>
 
 ## About
@@ -74,25 +74,27 @@ Conversations, projects, and settings are stored locally on your Mac. Model requ
 
 ## Screenshots
 
-<p align="center">
-  <img width="1000" alt="An interactive view in a reply, also opened in the right pane" src="assets/screenshot-view.png" />
-</p>
-<p align="center"><em>Interactive views: live demos in the reply and beside the chat</em></p>
+Captured from Cortex 0.10.1206. The document shown contains example content.
 
 <p align="center">
-  <img width="1000" alt="Cola, the personal agent, with its profile panel" src="assets/screenshot-cola.png" />
+  <img width="1000" alt="Cortex 0.10.1206 document editor with a sample launch brief, checklist, callout, and table" src="assets/screenshot-work-0.10.1206.png" />
 </p>
-<p align="center"><em>Cola: messenger-style chat with routines, memory, and model settings</em></p>
+<p align="center"><em>Work: keep editing the same document · 作品：打开同一份文档继续编辑</em></p>
 
 <p align="center">
-  <img width="1000" alt="Knowledge base overview" src="assets/screenshot-knowledge.png" />
+  <img width="1000" alt="Cola, the personal agent, with its profile panel" src="assets/screenshot-cola-0.10.1206.png" />
 </p>
-<p align="center"><em>Knowledge base: verified sources your agents can cite</em></p>
+<p align="center"><em>Cola: chat, routines, memory, and model settings · Cola：对话、日常、记忆与模型设置</em></p>
 
 <p align="center">
-  <img width="1000" alt="Bot settings with linking, routing, and reply mode" src="assets/screenshot-bots.png" />
+  <img width="1000" alt="Knowledge base overview" src="assets/screenshot-knowledge-0.10.1206.png" />
 </p>
-<p align="center"><em>Bots: link a chat app, choose where messages go and how replies arrive</em></p>
+<p align="center"><em>Knowledge: start with a template or your own documents · 知识库：从模板或自己的资料开始</em></p>
+
+<p align="center">
+  <img width="1000" alt="Cortex 0.10.1206 bot setup showing supported chat platforms" src="assets/screenshot-bots-0.10.1206.png" />
+</p>
+<p align="center"><em>Bots: connect WeChat, Feishu / Lark, DingTalk, or Telegram · 机器人：连接微信、飞书 / Lark、钉钉或 Telegram</em></p>
 
 ## Updates
 
@@ -166,7 +168,7 @@ This repository hosts Cortex release builds and serves as its update feed. The c
 
 ### 截图
 
-见上方英文部分的截图：交互视图、Cola、知识库、机器人设置。
+上方截图均来自 Cortex 0.10.1206：作品编辑器、Cola、知识库与机器人设置。文档内容为演示示例；图注提供中英文。
 
 ### 更新
 
