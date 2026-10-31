@@ -98,6 +98,13 @@ Captured from Cortex 0.10.1206. The document shown contains example content.
 
 ## Updates
 
+### 0.10.1228
+
+- Simplified settings for Cola, models, and bots.
+- Improved routing, tray overview, daily usage, and retry cost tracking.
+- Fixed work saving, memory updates, and TXT delivery.
+- Added mobile connection and notification testing for Cola (preview).
+
 Cortex uses this repository as its update feed. With automatic updates enabled, the app checks shortly after launch and every four hours. With automatic downloads enabled, it downloads the update in the background and installs it the next time you quit; you can also restart to update, check manually, or change these options in **Settings › Notifications & chats › Software update**.
 
 Changes and known limitations for each version are on the [Releases](https://github.com/createpjf/cortex-releases/releases) page.
@@ -171,6 +178,13 @@ This repository hosts Cortex release builds and serves as its update feed. The c
 上方截图均来自 Cortex 0.10.1206：作品编辑器、Cola、知识库与机器人设置。文档内容为演示示例；图注提供中英文。
 
 ### 更新
+
+#### 0.10.1228
+
+- 简化 Cola、模型与机器人设置。
+- 改善选模、托盘概览、按日用量与重试费用统计。
+- 修复作品保存、记忆整理与 TXT 交付。
+- 新增 Cola 手机连接和通知测试（预览）。
 
 Cortex 使用本仓库作为更新源。开启自动更新后，启动不久及之后每四小时检查一次；开启自动下载后，在后台下载并于下次退出时安装。也可以在「设置 › 通知与对话 › 软件更新」里重启更新、手动检查或调整这些选项。
 
