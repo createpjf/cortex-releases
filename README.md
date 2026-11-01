@@ -98,6 +98,13 @@ Captured from Cortex 0.10.1206. The document shown contains example content.
 
 ## Updates
 
+### 0.10.1240
+
+- Improved browsing, completion checks, and approval for sensitive actions.
+- Fixed computer-use targeting and simplified progress display.
+- Improved Cola replies and added copy-code pairing.
+- Strengthened mobile consent, references, attachments, and scheduled-task checks.
+
 ### 0.10.1228
 
 - Simplified settings for Cola, models, and bots.
@@ -178,6 +185,13 @@ This repository hosts Cortex release builds and serves as its update feed. The c
 上方截图均来自 Cortex 0.10.1206：作品编辑器、Cola、知识库与机器人设置。文档内容为演示示例；图注提供中英文。
 
 ### 更新
+
+#### 0.10.1240
+
+- 改善浏览器操作、完成核对与敏感动作确认。
+- 修复操作电脑的目标匹配，精简过程展示。
+- 优化 Cola 回复，支持复制配对码连接。
+- 加强手机授权、引用、附件与定时任务校验。
 
 #### 0.10.1228
 
